@@ -9,7 +9,7 @@
 - 🌍 Based in **Karur, Tamil Nadu**
 - 🔭 Currently building **ETL Pipelines & Data Warehouses**
 - 📊 Passionate about turning raw data into meaningful insights
-- 🌱 Learning **Advanced SQL, Python, and Cloud Data Engineering**
+- 🌱 Learning **Advanced SQL, Python, Power BI, Excel, and Cloud Data Engineering**
 - 💼 Open to **Data Analyst / Data Engineer** opportunities
 
 ---
