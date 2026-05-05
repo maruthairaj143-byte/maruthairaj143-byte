@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-- 🌍 Based in **Thoothukudi, Tamil Nadu**
+- 🌍 Based in **karur, Tamil Nadu**
 - 🔭 Currently building **ETL Pipelines & Data Warehouses**
 - 📊 Passionate about turning raw data into meaningful insights
 - 🌱 Learning **Advanced SQL, Python, and Cloud Data Engineering**
